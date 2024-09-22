@@ -1,0 +1,9 @@
+header {
+    background-image: url('https://via.placeholder.com/1200x400');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .card {
+    margin-top: 20px;
+  }
